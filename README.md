@@ -1,7 +1,10 @@
-# 👋 Hey there! Welcome to my GitHub profile 👋
+## Hey there! Welcome to my GitHub profile 👋
 ### My name is Aline and I'm a Software Engineering student.
 
-## My social media:
+### I'm currently learning:
+
+
+### My social media:
 
 <div>
 <a href="https://instagram.com/alinemrtins_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
