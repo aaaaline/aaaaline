@@ -11,4 +11,4 @@
 
 ## My stats:
 
-https://github-readme-streak-stats.herokuapp.com/?user=aaaaline
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaline)](https://github.com/anuraghazra/github-readme-stats)
