@@ -1,7 +1,7 @@
 ## Hey there! Welcome to my GitHub profile 👋
 
 ### 👩‍💻 About me:
-  - My name is Aline and I am 20 years old.
+  - My name is Aline and I am 21 years old.
   - I am a third year Software Engineering student.
 
 ### 📖 Currently learning and working with:
