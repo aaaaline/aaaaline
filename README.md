@@ -2,7 +2,7 @@
 
 ### 👩‍💻 About me:
   - My name is Aline and I am 21 years old.
-  - I am a third year Software Engineering student.
+  - I am a fourth year Software Engineering student.
 
 ### 📖 Currently learning and working with:
 
