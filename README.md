@@ -1,6 +1,6 @@
 ## 👩‍💻 About me
 
-Hi! My name is Aline, and I'm a 22-year-old Software Engineering undergraduate at the Federal University of Goiás (UFG). I am currently an intern at Equatorial Energia Goiás, where I work with data analysis to support decision-making and business insights.
+Hi! My name is Aline, and I'm a 22-year-old Software Engineering undergraduate at Universidade Federal de Goiás (UFG). I am currently an intern at Equatorial Energia Goiás, where I work with data analysis to support decision-making and business insights.
 
 ## 🛠️ Tools & Technologies
 
